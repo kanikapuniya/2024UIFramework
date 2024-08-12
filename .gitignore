@@ -1,0 +1,6 @@
+##
+.class path
+.project
+.settings/
+target/
+test-output/
